@@ -1,5 +1,7 @@
 # calculator Web Application
+
 ![calculator](<images/Screenshot 2024-05-08 101820.png>)
+
 # 1. **HTML**: The HTML structure defines the layout of the calculator, including buttons for numbers, operators, and the display area to show the results.
 
 # 2. **CSS**: CSS is used to style the HTML elements, giving the calculator a visually appealing design. This includes defining colors, fonts, sizes, and positioning of the calculator components.
